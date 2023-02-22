@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Rachel_Dsouza\\OneDrive - Idealake Information Technologies Pvt. ltd\\Documents\\Canara\\DeleteSitefinityLogs\\DeleteSitefinityLogs.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Rachel_Dsouza\\OneDrive - Idealake Information Technologies Pvt. ltd\\Documents\\Canara\\DeleteSitefinityLogs\\DeleteSitefinityLogs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rachel_Dsouza\\OneDrive - Idealake Information Technologies Pvt. ltd\\Documents\\Canara\\DeleteSitefinityLogs\\DeleteSitefinityLogs.csproj",
+        "projectName": "DeleteSitefinityLogs",
+        "projectPath": "C:\\Users\\Rachel_Dsouza\\OneDrive - Idealake Information Technologies Pvt. ltd\\Documents\\Canara\\DeleteSitefinityLogs\\DeleteSitefinityLogs.csproj",
+        "packagesPath": "C:\\Users\\Rachel_Dsouza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rachel_Dsouza\\OneDrive - Idealake Information Technologies Pvt. ltd\\Documents\\Canara\\DeleteSitefinityLogs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rachel_Dsouza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.10.0, )"
+            },
+            "WindowsAzure.Storage": {
+              "target": "Package",
+              "version": "[9.3.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
